@@ -1,0 +1,107 @@
+
+.header {
+    margin :0px 0px 100px 0px ; 
+    
+}
+
+.image-cover{
+    width: 100%;
+    min-height: 300px;
+}
+
+.logo {
+    width: 500px;
+    height: 500px;
+    
+}
+
+.title {
+    font-family: cursive;
+}
+
+.description{
+    font-family: sans-serif;
+}
+
+.overview{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.description-text{
+    width: 40%;
+}
+
+.description-image{
+    width: 60%;
+    justify-content: end;
+    align-items: center;
+    display: flex;
+    
+}
+
+.divider {
+    margin: 100px 0px;
+}
+
+.retrive{
+    display: flex;
+    flex-direction: row;
+    padding: 50px 100px ;
+}
+
+.profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 50%;
+}
+
+.profile-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+}
+
+.profile-social{
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.howtoJoin{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin: 0px 200px;
+    height: 200px;
+}
+
+.btn-join{
+    background-color: #f7a300;
+    color: white;
+    width: 300px;
+    height: 50px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    display: flex;
+}
+
+.Community{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.social-link{
+    margin: 20px;
+}
