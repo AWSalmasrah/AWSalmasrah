@@ -4,4 +4,4 @@
 
 * Copy the image name ``` moamryehia/flask ```
 
-* Pase the image name inside lightsail
+* Paste the image name inside lightsail
