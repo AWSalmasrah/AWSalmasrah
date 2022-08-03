@@ -1,5 +1,5 @@
-# AWSalmasrah
+# Deploy Flask application on Lightsail
 
-<p align="center">
-    <img src="https://github.com/MoAmrYehia/AWSalmasrah/blob/main/src/logo.png" style="width:400px;height:400px;">
-</p>
+Go to [the premade docker hub repo](https://hub.docker.com/repository/docker/moamryehia/flask)
+
+Copy the image name ``` moamryehia/flask ```
