@@ -44,3 +44,16 @@ $ git --version
 ```
 git version 2.25.1
 ```
+
+## Step 4 — Clone the Repo
+
+```
+git clone https://github.com/AWSalmasrah/AWSalmasrah.git
+```
+## Step 5 — Run the Flask application
+```
+cd E3 - Run your First EC2
+python3 app.py
+```
+```
+
