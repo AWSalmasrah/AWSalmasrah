@@ -55,5 +55,4 @@ git clone https://github.com/AWSalmasrah/AWSalmasrah.git
 cd E3 - Run your First EC2
 python3 app.py
 ```
-```
 
